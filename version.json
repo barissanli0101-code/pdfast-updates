@@ -3,7 +3,7 @@
   "versionCode": 3,
   "mandatory": false,
   "notes": "Yeni sürüm yayınlandı.",
-  "androidApkUrl": "sha256:2eca56aa0788672d1e3f87460e0b9fe23efd1072790d26d19285b238444c0f42",
+  "androidApkUrl": "https://github.com/barissanli0101-code/pdfast-updates/releases/download/v1.0.2/com.companyname.pdfast-Signed.apk",
   "windowsInstallerUrl": "",
   "iosStoreUrl": "",
   "macInstallerUrl": ""
