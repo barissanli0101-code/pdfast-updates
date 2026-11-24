@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "versionCode": 2,
+  "version": "1.0.2",
+  "versionCode": 3,
   "mandatory": false,
-  "notes": "Uzaktan güncelleme altyapısı eklendi.",
-  "androidApkUrl": "",
+  "notes": "Yeni sürüm yayınlandı.",
+  "androidApkUrl": "sha256:2eca56aa0788672d1e3f87460e0b9fe23efd1072790d26d19285b238444c0f42",
   "windowsInstallerUrl": "",
   "iosStoreUrl": "",
   "macInstallerUrl": ""
